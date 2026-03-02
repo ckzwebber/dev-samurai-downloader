@@ -62,8 +62,8 @@ devsamurai-downloader/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/devsamurai-downloader.git
-cd devsamurai-downloader
+git clone https://github.com/ckzwebber/dev-samurai-downloader.git
+cd dev-samurai-downloader
 ```
 
 ### 2. Criar ambiente virtual (opcional, mas recomendado)
